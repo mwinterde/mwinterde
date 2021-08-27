@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name is Marcus 👋
+
+* I'm a self-taught Data Scientist who loves to learn new data analysis and machine learning concepts
+* I'm currently using this profile primarily as a personal learning space, but feel free to see if there is something interesting for you
+* I'm currently doing most of my work on the Google Cloud Platform and love easy-to-use tools like dbt, pandas, matplotlib, sklearn or streamlit
 
 <!--
 **mwinterde/mwinterde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
